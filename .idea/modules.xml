@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bin/Schatz/game/entities/creatures/creatures.iml" filepath="$PROJECT_DIR$/bin/Schatz/game/entities/creatures/creatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dungeonish game.iml" filepath="$PROJECT_DIR$/dungeonish game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/Schatz/game/gfx/gfx.iml" filepath="$PROJECT_DIR$/bin/Schatz/game/gfx/gfx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/Schatz/game/duengeon/squares/squares.iml" filepath="$PROJECT_DIR$/bin/Schatz/game/duengeon/squares/squares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/Schatz/game/states/states.iml" filepath="$PROJECT_DIR$/bin/Schatz/game/states/states.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin/Schatz/game/tiles/tiles.iml" filepath="$PROJECT_DIR$/bin/Schatz/game/tiles/tiles.iml" />
+    </modules>
+  </component>
+</project>
